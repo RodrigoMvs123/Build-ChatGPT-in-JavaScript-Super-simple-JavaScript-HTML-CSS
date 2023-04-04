@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=05ssqx-SZT0
 
 https://raw.githubusercontent.com/RodrigoMvs123/Build-ChatGPT-in-JavaScript-Super-simple-JavaScript-HTML-CSS/main/README.md
 
+https://github.com/RodrigoMvs123/Build-ChatGPT-in-JavaScript-Super-simple-JavaScript-HTML-CSS/blame/main/README.md
+
 index.html
 <!DOCTYPE html>
 <html lang=”en”>
